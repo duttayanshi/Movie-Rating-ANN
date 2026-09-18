@@ -155,8 +155,3 @@ Yanshi
 MCA Student | Aspiring Software Developer
 
 
-**Ctrl + S** kar dena. ✅
-
-Abhi `YOUR_GITHUB_REPOSITORY_URL` ko change nahi karna. GitHub repo banate time actual link daalenge.
-
-Next step me **:contentReference[oaicite:0]{index=0}** — usse GitHub project kaafi proper lagega. 📸
